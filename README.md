@@ -103,13 +103,13 @@ Jetson은 자동 모드의 상태를 순찰과 추적으로 나누고, 탐지 �
 
 팀원별 주요 기여를 요약했습니다.
 
-| 이름 | 담당 | 주요 기여 |
+| 구분 | 담당 | 주요 기여 |
 | --- | --- | --- |
-| 김승수 | Frontend | 대시보드·지도 UI, 영상·조종 API 연동, PWA·FCM 알림 |
-| 김건남 | Robotics / Streaming | WebRTC·탐지 박스 전송, 순찰·추적 및 ROS2 연동, Pi 주행·엔코더 제어 |
-| 김태영 | Backend | 인증·차량·이력 API, MQTT 상태·지도 결과 처리, GCS 파일 조회 연동 |
-| 최두용 | Jetson / Backend | MQTT 통신·장치 상태 연동, 탐지 스냅샷·영상 기록, GCS 업로드 |
-| 정성윤 | AI | 로봇 카메라 영상에서 벌레를 식별하기 위한 객체 탐지 AI 모델 학습 |
+| 팀원 A | Frontend | 대시보드·지도 UI, 영상·조종 API 연동, PWA·FCM 알림 |
+| 팀원 B | Robotics / Streaming | WebRTC·탐지 박스 전송, 순찰·추적 및 ROS2 연동, Pi 주행·엔코더 제어 |
+| 본인 | Backend | 인증·차량·이력 API, MQTT 상태·지도 결과 처리, GCS 파일 조회 연동 |
+| 팀원 C | Jetson / Backend | MQTT 통신·장치 상태 연동, 탐지 스냅샷·영상 기록, GCS 업로드 |
+| 팀원 D | AI | 로봇 카메라 영상에서 벌레를 식별하기 위한 객체 탐지 AI 모델 학습 |
 
 ## 🚀 시작하기
 
